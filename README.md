@@ -3,7 +3,7 @@ ___
 I'm a full stack Sr. Designer at Knowde.com where we are builing the largest B2B marketplace on 🌎 Earth. Want to join our design and product team?  Check out our open roles [here](https://knowde.com/careers)
 
 
-Other Things I Enjoy
+## Other Things I Enjoy
 ___
 - ☕️
 - 🍎
