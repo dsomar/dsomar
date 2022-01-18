@@ -1,4 +1,19 @@
 ### Hi there 👋
+___
+
+
+My Operating Manual
+___
+
+
+
+Other Things I Enjoy
+___
+- ☕️
+- 🍎
+- 🏃‍♂️
+
+
 
 <!--
 **dsomar/dsomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
